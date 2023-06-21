@@ -6,7 +6,7 @@
 > 
 > 我有一个问题，用了多线程后，两个问题有了现在。
 
-* [在线阅读](http://pybs.apachecn.org/)
+* [在线阅读](http://pybs.flygon.net/)
 ## 下载
 
 ### Docker
